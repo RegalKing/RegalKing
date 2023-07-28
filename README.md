@@ -1,16 +1,21 @@
-### Hi there 👋
+<!-- #  Web development Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)\
+`HTML    CSS    JS     TS` -->
 
-<!--
-**RegalKing/RegalKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#  Backend Skills
+[![My Skills](https://skillicons.dev/icons?i=java,c,python)](https://skillicons.dev)\
+`Java     C    Python`
+<!-- #  Database skills
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,nosql)](https://skillicons.dev)\
+`MySQL PostGreSQL` -->
 
-Here are some ideas to get you started:
+<!-- #  Web development Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,nodejs)](https://skillicons.dev)\
+`HTML    CSS    JS     TS     VUE    NODE`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#  Backend Skills
+[![My Skills](https://skillicons.dev/icons?i=java,c,python,cpp,php,lol,laravel)](https://skillicons.dev)\
+`Java     C    Python  C++    PHP         Laravel`
+#  Database skills
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)\
+`MySQL PostGreSQL    Python  C++    PHP` -->
