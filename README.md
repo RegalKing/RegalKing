@@ -7,7 +7,7 @@
 ` Java     C     Python`
 #  RDBMS 
 [![My Skills](https://skillicons.dev/icons?i=mysql,,postgres,,sqlite)](https://skillicons.dev)\
-`MySQL  |  PostGreSQL  |  Sqlite`
+`MySQL  |    PostGreSQL  |    Sqlite`
 
 #  Other Skills
 [![My Skills](https://skillicons.dev/icons?i=ps,)](https://skillicons.dev)\
