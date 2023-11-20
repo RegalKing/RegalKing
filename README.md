@@ -5,9 +5,9 @@
 #  Backend Skills
 [![My Skills](https://skillicons.dev/icons?i=java,c,python)](https://skillicons.dev)\
 ` Java     C     Python`
-<!-- #  Database skills
+#  RDBMS 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,nosql)](https://skillicons.dev)\
-`MySQL PostGreSQL` -->
+`MySQL PostGreSQL`
 
 <!-- #  Web development Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,nodejs)](https://skillicons.dev)\
