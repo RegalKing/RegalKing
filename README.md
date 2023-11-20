@@ -11,7 +11,7 @@
 
 #  Other Skills
 [![My Skills](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev)\
-`Figma Photoshop`
+`Figma   Photoshop`
 
 <!-- #  Web development Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,nodejs)](https://skillicons.dev)\
