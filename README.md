@@ -10,8 +10,8 @@
 `MySQL   SQLite  PostGreSQL`
 
 #  Other Skills
-[![My Skills](https://skillicons.dev/icons?i=ps,)](https://skillicons.dev)\
-` Photoshop     C     Python`
+[![My Skills](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev)\
+`Figma Photoshop`
 
 <!-- #  Web development Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,nodejs)](https://skillicons.dev)\
