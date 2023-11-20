@@ -6,8 +6,12 @@
 [![My Skills](https://skillicons.dev/icons?i=java,c,python)](https://skillicons.dev)\
 ` Java     C     Python`
 #  RDBMS 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,nosql)](https://skillicons.dev)\
-`MySQL PostGreSQL`
+[![My Skills](https://skillicons.dev/icons?i=mysql,,postgres,,sqlite)](https://skillicons.dev)\
+`MySQL  |  PostGreSQL  |  Sqlite`
+
+#  Other Skills
+[![My Skills](https://skillicons.dev/icons?i=ps,)](https://skillicons.dev)\
+` Photoshop     C     Python`
 
 <!-- #  Web development Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,nodejs)](https://skillicons.dev)\
