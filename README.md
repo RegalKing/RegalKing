@@ -6,8 +6,8 @@
 [![My Skills](https://skillicons.dev/icons?i=java,c,python)](https://skillicons.dev)\
 ` Java     C     Python`
 #  RDBMS 
-[![My Skills](https://skillicons.dev/icons?i=mysql,,postgres,,sqlite)](https://skillicons.dev)\
-`MySQL  |    PostGreSQL  |    Sqlite`
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres)](https://skillicons.dev)\
+`MySQL  SQLite  PostGreSQL`
 
 #  Other Skills
 [![My Skills](https://skillicons.dev/icons?i=ps,)](https://skillicons.dev)\
